@@ -1,0 +1,31 @@
+{
+  "name": "node_v2",
+  "version": "1.0.0",
+  "description": "Example Node project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pragmadox/exampleNode.git"
+  },
+  "keywords": [
+    "review",
+    "of",
+    "Node",
+    "examples"
+  ],
+  "author": "Jay Price",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pragmadox/exampleNode/issues"
+  },
+  "homepage": "https://github.com/pragmadox/exampleNode#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.12.1"
+  }
+}
